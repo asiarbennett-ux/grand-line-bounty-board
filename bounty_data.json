@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Roronoa Zoro",
+    "epitaph": "Pirate Hunter",
+    "bounty": "1,111,000,000 Beli",
+    "devil_fruit": "None (Three-Sword Style Mastery)",
+    "status": "Active Threat"
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "epitaph": "Straw Hat",
+    "bounty": "3,000,000,000 Beli",
+    "devil_fruit": "Hito Hito no Mi, Model: Nika",
+    "status": "Yonko"
+  },
+  {
+    "name": "Satoru Gojo",
+    "epitaph": "The Strongest",
+    "bounty": "Priceless (Classified)",
+    "devil_fruit": "Limitless & Six Eyes",
+    "status": "Sealed / Exceptional Hazard"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "epitaph": "The Sun-Walking Demon",
+    "bounty": "500,000,000 Yen",
+    "devil_fruit": "Blood Demon Art (Exploding Blood)",
+    "status": "Targeted by Upper Ranks"
+  },
+  {
+    "name": "Killua Zoldyck",
+    "epitaph": "The Assassin Prodigy",
+    "bounty": "200,000,000 Jenny",
+    "devil_fruit": "Nen Mastery (Godspeed / Lightning)",
+    "status": "Elusive"
+  }
+]
